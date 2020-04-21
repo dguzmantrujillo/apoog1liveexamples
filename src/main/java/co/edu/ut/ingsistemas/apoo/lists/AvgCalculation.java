@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package co.edu.ut.ingsistemas.apoo.avgcalculation;
+package co.edu.ut.ingsistemas.apoo.lists;
 
 import java.util.Collections;
 import java.util.LinkedList;
 
 /**
- * Ejemplo de programación en vivo de la tutoría 2: programa que ordena un
+ * Ejemplo de programación en vivo de la tutoría 1: programa que ordena un
  * listado de enteros, calcula la sumatoria y promedio; todo usando listas
  * enlazadas. Ejercicio 22.17 tomado de (Deitel & Deitel, 2011, pág. 872)
  *
